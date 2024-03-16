@@ -2,7 +2,7 @@ Temu bot - made by thatonedude-temu
 
 First, you have to open the Github repo (I sent link on discord)
 
-Then, you have to open the file 42.zip within the Github page, by just pressing the file name 42.zip, and then click the download button on the far right (it says download raw file when you hover your mouse on it)
+Then, you have to open the Temu Bot application file within the Github page, click the download button on the far right (it says download raw file when you hover your mouse on it)
 
 It will say dangerous file because of a C++ and javascript issue within the application, so just continue downloading if you are on Chrome by just clicking full download history, and then click keep file.
 
